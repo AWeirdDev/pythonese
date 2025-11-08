@@ -13,7 +13,7 @@ print(items[0])  # "apple"
 print(items[2])  # "pickles"
 ```
 
-```
+```python
 # You can have multiple types.
 combined: list[str | int] = [
     1,
