@@ -16,3 +16,7 @@ profile: dict[str, str] = {
     "companion": "Jesse Pinkman"
 }
 ```
+
+## References
+- [Update](./update.md)
+- [Indexing](./indexing.md)

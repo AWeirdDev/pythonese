@@ -23,3 +23,10 @@ combined: list[str | int] = [
     -10
 ]
 ```
+
+## References
+- [Fill](./fill.md)
+- [Drain](./drain.md)
+- [Indexing](./indexing.md)
+- [Iterate](./iterate.md)
+- [Slicing](./slicing.md)
